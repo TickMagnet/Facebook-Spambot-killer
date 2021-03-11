@@ -79,7 +79,7 @@ void loop() {
   DigiKeyboard.write('\t');
   DigiKeyboard.delay(200);
   DigiKeyboard.write('\t');
-  //DigiKeyboard.delay(200);
+  DigiKeyboard.delay(200);
  // DigiKeyboard.write('\t');
  // DigiKeyboard.delay(200);
  // DigiKeyboard.write('\t');
